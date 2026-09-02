@@ -2,6 +2,12 @@
 
 Personal Windows workspace for scraping Amazon.in product details and exporting product graphics through Photoshop.
 
+## Download
+
+[**Download AmzFlow Admin**](https://github.com/freakyrits/AmzFlow/archive/refs/heads/main.zip)
+
+Extract the ZIP, then open `AmzFlow Admin/Open AmzFlow Admin.cmd`.
+
 ## Start
 
 Open `AmzFlow Admin/Open AmzFlow Admin.cmd`.
